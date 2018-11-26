@@ -1,0 +1,11 @@
+@media (max-width: 450px) {
+  div.zine-page#zine-content-hard-of-hearing div.prose {
+    height: 50%;
+    width: 100%;
+  }
+
+  div.zine-page#zine-content-year-of-the-dog-whistle div.prose {
+    height: 50%;
+    width: 100%;
+  }
+}

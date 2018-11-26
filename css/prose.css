@@ -1,0 +1,68 @@
+div.zine-page div.prose {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+
+  height: 100%;
+  width: 100%;
+
+  display: inline-block;
+}
+
+/* Hard of Hearing */
+
+div.zine-page#zine-content-hard-of-hearing div.prose {
+  height: 100%;
+  width: 50%;
+}
+
+div.zine-page#zine-content-hard-of-hearing div.prose:nth-child(1) {
+  background-image: url('/assets/img/prose/hard-of-hearing-1.png');
+
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+div.zine-page#zine-content-hard-of-hearing div.prose:nth-child(2) {
+  background-image: url('/assets/img/prose/hard-of-hearing-2.png');
+
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+/* Stationary Sailor */
+
+div.zine-page#zine-content-stationary-sailor div.prose {
+  background-image: url('/assets/img/prose/stationary-sailor.png');
+}
+
+/* 22 */
+
+div.zine-page#zine-content-22 div.prose {
+  background-image: url('/assets/img/prose/22.png');
+}
+
+/* Year of the Dog (Whistle) */
+
+div.zine-page#zine-content-year-of-the-dog-whistle div.prose {
+  height: 100%;
+  width: 50%;
+}
+
+div.zine-page#zine-content-year-of-the-dog-whistle div.prose:nth-child(1) {
+  background-image: url('/assets/img/prose/year-of-the-dog-whistle-1.png');
+
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+div.zine-page#zine-content-year-of-the-dog-whistle div.prose:nth-child(2) {
+  background-image: url('/assets/img/prose/year-of-the-dog-whistle-2.png');
+
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
